@@ -1,0 +1,94 @@
+
+html {
+  background: url(wall.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  }
+
+html, body {
+  display: flex;
+  width: 100%;
+  cursor: url('comb.png'), auto;
+}
+
+#girl {
+  margin: auto;
+  background-image: url("Hair1.png");
+  background-size: 100%;
+  -webkit-background-size: cover;
+  padding-bottom:35px;
+  width: 1270px;
+  height: 790px;
+  position: relative;
+
+}
+
+#cat {
+  cursor: url('comb.png'), auto;
+  box-shadow: 0px 0px 100px black;
+  border-radius: 20px;
+  position: absolute;
+  width: 140px;
+  height: 90px;
+  top: 260px;
+  left: 880px;
+}
+
+#watch {
+  cursor: url('comb.png'), auto;
+  border-radius: 20px;
+  box-shadow: 0px 0px 100px black;
+  position: absolute;
+  width: 263px;
+  height: 193px;
+  top: 140px;
+  left: 330px;
+}
+
+#future {
+  cursor: url('comb.png'), auto;
+  box-shadow: 0px 0px 100px black;
+  border-radius: 20px;
+  position: absolute;
+  width: 170px;
+  height: 110px;
+  top: 530px;
+  left: 770px;
+}
+
+#cal {
+  cursor: url('comb.png'), auto;
+  box-shadow: 0px 0px 100px black;
+  border-radius: 10px;
+  position: absolute;
+  width: 95px;
+  height: 60px;
+  top: 120px;
+  left: 740px;
+}
+
+#rain {
+  cursor: url('comb.png'), auto;
+  position: absolute;
+  width: 200px;
+  height: 150px;
+  top: 470px;
+  left: 270px;
+  box-shadow: 0px 0px 100px black;
+  border-radius: 20px;
+
+}
+
+#clock{
+    cursor: url('comb.png'), auto;
+    box-shadow: 0px 0px 100px black;
+    border-radius: 20px;
+    position: absolute;
+    width: 120px;
+    height: 80px;
+    top: 370px;
+    left: 640px;
+}
